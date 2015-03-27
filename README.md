@@ -1,6 +1,6 @@
 #个人简历
 
-> 永不言弃
+> Stay hungry,stay foolish.
 
 ---
 ##基本信息
