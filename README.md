@@ -95,6 +95,9 @@
 ---
 ##其他账号
 
-github账号：[yqferin](https://github.com/yqferin)   
-博客账号:[yqferin](http://blog.sina.com.cn/u/5480286654)
+####github账号：[yqferin](https://github.com/yqferin)   
+
+####博客账号:[yqferin](http://blog.sina.com.cn/u/5480286654)
+
+
 ---
