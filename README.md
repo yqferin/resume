@@ -97,7 +97,9 @@
 
 ####github账号：[yqferin](https://github.com/yqferin)   
 
-####博客账号:[yqferin](http://blog.sina.com.cn/u/5480286654)
+####新浪博客账号:[yqferin](http://blog.sina.com.cn/u/5480286654)
+
+####CSDN账号：[yqferin](http://blog.csdn.net/yqferin/article)
 
 
 ---
