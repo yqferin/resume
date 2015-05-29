@@ -16,14 +16,17 @@
     <tr>
     <td>生日：</td><td>1992-05-26</td><td>QQ：</td><td>778506681</td>
     </tr>
-     <tr>
     <tr>
     <td>在读学校：</td><td>大连理工大学</td><td>毕业年份：</td><td>2016年</td>
-    <tr>
-    <td>系别：</td><td>软件工程</td><td>期望职位：</td><td>Java开发</td>
     </tr>
+    <tr>
+    <td>系别：</td><td>软件工程</td><td>期望职位：</td><td>Java Web开发</td>
+    </tr>
+    <tr>
     <td>GPA：</td><td>3.500</td><td>专业排名：</td><td>top 10%</td>
     </tr>
+    <tr>
+    <td>期望工作地点：</td><td>杭州、上海、北京</td>
     </tr>
 </table>
 
@@ -103,8 +106,6 @@
 ##其他账号
 
 ####github账号：[yqferin](https://github.com/yqferin)   
-
-####新浪博客账号:[yqferin](http://blog.sina.com.cn/u/5480286654)
 
 ####CSDN账号：[yqferin](http://blog.csdn.net/yqferin/article)
 
