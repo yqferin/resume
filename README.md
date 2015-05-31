@@ -17,10 +17,10 @@
     <td>生日：</td><td>1992-05-26</td><td>QQ：</td><td>778506681</td>
     </tr>
     <tr>
-    <td>在读学校：</td><td>大连理工大学</td><td>毕业年份：</td><td>2016年</td>
+    <td>在读学校：</td><td>大连理工大学</td><td>系别：</td><td>软件工程</td>
     </tr>
     <tr>
-    <td>系别：</td><td>软件工程</td><td>期望职位：</td><td>Java Web开发</td>
+    <td>毕业年份：</td><td>2016年</td><td>期望职位：</td><td>Java Web开发</td>
     </tr>
     <tr>
     <td>GPA：</td><td>3.500</td><td>专业排名：</td><td>top 10%</td>
