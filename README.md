@@ -23,7 +23,7 @@
     <td>GPA：</td><td>3.500</td><td>专业排名：</td><td>top 10%</td>
     </tr>
     <tr>
-    <td>毕业年份：</td><td>2016年</td><td>期望职位：</td><td>Java Web开发</td>
+    <td>毕业年份：</td><td>2016年</td><td>期望职位：</td><td>Java 开发</td>
     </tr>
     <tr>
     <td>期望工作地点：</td><td>杭州、上海、北京</td><td>可实习时间：</td><td>2015-07至2016-05</td>
