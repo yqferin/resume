@@ -106,11 +106,3 @@
 
 ---
 
-##其他账号
-
-####github账号：[yqferin](https://github.com/yqferin)   
-
-####CSDN账号：[yqferin](http://blog.csdn.net/yqferin/article)
-
-
----
